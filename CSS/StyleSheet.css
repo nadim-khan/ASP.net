@@ -1,0 +1,49 @@
+﻿ body{
+     border:3px solid #ee0000;
+ }
+#header {
+    background-color: #525252;
+    height: 200px;
+    width: 100%;
+    color: White;
+    background-image: url('Screenshot_2016-01-22-15-40-24-1.png');
+}
+    
+    #menu
+    {
+        background-image:url('starfield_lrg-854x479.jpg');
+        width:100%;
+        height: 40px;
+    }
+    
+    #content
+    {
+        background-color: white;
+        height: 580px;
+        width:100%;
+        
+        
+    }
+    
+    #main
+    {
+        background-color: #6e6e6e	;
+        height: 580px;
+        width: 70%;
+        float:right;
+        
+    }
+    
+    #side
+    {
+        background-color:BLACK;
+        height: 580px;
+        width: 30%;
+        float:left;
+    }
+        
+   #foot{
+       background-color:#d8bfd8;
+       height:100px;
+       width:100%;
+   }
